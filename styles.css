@@ -970,6 +970,7 @@ footer .container {
     }
     
     .feature-property-card {
+        display:none;
         left: 50%;
         transform: translateX(-50%);
     }
